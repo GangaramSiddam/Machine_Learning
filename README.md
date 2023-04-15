@@ -3,7 +3,7 @@
 # Machine_Learning
 Practiced templates and Assignments 
 
-numpy.ipynb : basic numpy functions
+Machine_Learning/numpy.ipynb : basic numpy functions
 
 
 
